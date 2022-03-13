@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KaanOnur391601067", "KaanOnur391601067\KaanOnur391601067.csproj", "{B0BF6CFD-6331-4368-92BC-816FE8ED51BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siniflarim", "Siniflarim\Siniflarim.csproj", "{DF45C72E-E2AF-4C63-A735-C178A8A03744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BF6CFD-6331-4368-92BC-816FE8ED51BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BF6CFD-6331-4368-92BC-816FE8ED51BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BF6CFD-6331-4368-92BC-816FE8ED51BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BF6CFD-6331-4368-92BC-816FE8ED51BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF45C72E-E2AF-4C63-A735-C178A8A03744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF45C72E-E2AF-4C63-A735-C178A8A03744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF45C72E-E2AF-4C63-A735-C178A8A03744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF45C72E-E2AF-4C63-A735-C178A8A03744}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8319F26A-A5B1-42F9-B599-3ACF39429544}
+	EndGlobalSection
+EndGlobal
